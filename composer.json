@@ -18,10 +18,10 @@
             "package": {
                 "name": "wordpress/wordpress-ja",
                 "type": "webroot",
-                "version": "4.8.1",
+                "version": "5.5.4",
                 "dist": {
                     "type": "zip",
-                    "url": "https://ja.wordpress.org/wordpress-4.8.1-ja.zip"
+                    "url": "https://vi.wordpress.org/wordpress-5.5.4-vi.zip"
                 },
                 "require": {
                     "fancyguy/webroot-installer": "~1.1"
@@ -30,7 +30,7 @@
         }
     ],
     "require": {
-        "php": "7.1.12",
+        "php": "7.4.12",
         "ext-apcu": "*",
         "ext-gd": "*",
         "ext-mbstring": "*",
