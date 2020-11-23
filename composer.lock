@@ -3233,7 +3233,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.1.12",
+        "php": "7.4.12",
         "ext-apcu": "*",
         "ext-gd": "*",
         "ext-mbstring": "*"
